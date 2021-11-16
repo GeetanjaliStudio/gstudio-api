@@ -48,7 +48,7 @@
   ],
   "dependencies": {
     "@sendgrid/mail": "^6.1.4",
-    "aws-sdk": "^2.150.0",
+    "aws-sdk": "^2.814.0",
     "axios": "^0.19.0",
     "babel-cli": "6.26.0",
     "babel-core": "6.26.0",
