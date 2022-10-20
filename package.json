@@ -94,7 +94,7 @@
     "mocha": "3.5.0",
     "moment": "^2.24.0",
     "mongodb": "^3.1.13",
-    "mongoose": "4.11.10",
+    "mongoose": "4.13.21",
     "mongoose-slug-generator": "^1.0.4",
     "mongoose-unique-validator": "^2.0.2",
     "morgan": "^1.9.1",
